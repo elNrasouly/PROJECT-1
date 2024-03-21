@@ -1,1 +1,6 @@
 venv/
+media/
+products/migrations/__pycache__/
+db.sqlite3/
+digital_product/__pycache__/urls.cpython-311.pyc/
+products/__pycache__/
